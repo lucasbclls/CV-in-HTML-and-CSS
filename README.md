@@ -1,2 +1,2 @@
-# Trabalho em HTML E CSS baisco
-### Curriculo feito em html e css se baseando em um projeto do Figma 
+# Basic HTML and CSS work
+### Work of the first two months for UVV faculty, where I would have to create a curriculum made in html and css, which I based myself on using and reproducing the necessary measures of a Figma template
